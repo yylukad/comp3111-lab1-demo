@@ -8,6 +8,7 @@ public class Library {
 		Library lib = new Library();
 		if (lib.someLibraryMethod())
 			System.out.println("When diudiudiu there is a fire, commit and push.");
+		System.out.println("When diudiudiu there is a fire, commit and push.");
 	}
 	
     public boolean someLibraryMethod() {
